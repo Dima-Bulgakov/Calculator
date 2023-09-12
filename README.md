@@ -14,8 +14,7 @@ Simple iOS Calculator
 -->
 </p>
 
-![calc](https://github.com/Dima-Bulgakov/Calculator/assets/111886499/0d5a34f2-4130-46c6-bf9a-9e3833afc510)
-
+<img src="https://github.com/Dima-Bulgakov/Calculator/assets/111886499/0d5a34f2-4130-46c6-bf9a-9e3833afc510" width="310" />
 
 ## Tools
 
